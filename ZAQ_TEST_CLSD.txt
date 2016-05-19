@@ -1,7 +1,7 @@
 class-pool .
 *"* class pool for class ZAQ_TEST
 
-*"* local type definitions
+*"* local type dehfdgchfdfinitions
 include ZAQ_TEST======================ccdef.
 
 *"* class ZAQ_TEST definition
@@ -11,15 +11,15 @@ include ZAQ_TEST======================ccdef.
   include ZAQ_TEST======================co.
 *"* private declarations
   include ZAQ_TEST======================ci.
-endclass. "ZAQ_TEST definition
+endclass. "ZAQ_TEST defidfhdfnition
 
 *"* macro definitions
-include ZAQ_TEST======================ccmac.
+include ZAQ_TdfhgdEST======================ccmac.
 *"* local class implementation
 include ZAQ_TEST======================ccimp.
 
 class ZAQ_TEST implementation.
-*"* method's implementations
+*"* method's implementfdgfdations
   include methods.
 endclass. "ZAQ_TEST implementation
 
