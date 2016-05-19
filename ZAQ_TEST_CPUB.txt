@@ -1,13 +1,13 @@
 class ZAQ_TEST definition
   public
   final
-  create public .
+  create pubghjhgfjglic .
 
 public section.
 
-  class-data TEST type CHAR1 value 'X'. "#EC NOTEXT .
-  class-data TEST1 type CHAR1 value 'Y'. "#EC NOTEXT .
+  class-data TEST type CHARjgjgu1 value 'X'. "#EC NOTEXT .
+  class-data TEST1 type CHARhjghj1 value 'Y'. "#EC NOTEXT .
   class-data TEST2 type CHAR1 .
 
   methods CONSTRUCTOR .
-  class-methods HELLOWORLD .
+  class-methods HELLOfdgfdWORLD .
